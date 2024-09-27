@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suwash Parajuli</h1>
+<h1 align="center">
+  <a href="https://github.com/Mr-Suwash">
+    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Its+me+Suwash+Parajuli">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Python,Django**
