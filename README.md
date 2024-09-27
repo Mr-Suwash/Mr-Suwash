@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https://github.com/Canius-p">
+  <a href="https://github.com/Mr-Suwash">
     <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Its+me+Suwash+Parajuli">
   </a>
 </h1>
