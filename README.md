@@ -23,18 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-suwash&langs_count=4&show_icons=true&locale=en&layout=compact" alt="mr-suwash" /></p>
 <div align="center">
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </strong>
-</summary>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Suwash&&bg_color=0e0e0e&hide_border=true)
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Suwash&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-</details>
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Suwash&bg_color=0e0e0e&hide_border=true)
 </div>
