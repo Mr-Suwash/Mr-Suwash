@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-suwash&langs_count=4&show_icons=true&locale=en&layout=compact" alt="mr-suwash" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Suwash&bg_color=0e0e0e&hide_border=true)
+<p> <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Suwash&bg_color=0e0e0e&hide_border=true"/></p>
 
