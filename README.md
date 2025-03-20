@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Its+me+Suwash+Parajuli">
   </a>
 </h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
+<h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Python,Django**
+- 🔭 I’m currently working on **Python,Data Analysis**
 
 - 🌱 I’m currently learning **ML**
 
